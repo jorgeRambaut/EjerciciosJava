@@ -4,10 +4,9 @@ Ejercicios Varios Tecnicas de Programacion
 ###Técnicas de Programación
 EJERCITACION INTEGRADORA ESTRUCTURAS DE CONTROL 
 Estructuras de tipo condicional y de selección 
-1).  Diseñar un algoritmo que pida por teclado tres números; si el primero es negativo, debe imprimir el producto de los tres y si no lo es, imprimirá la suma. 
-2) Crear un algoritmo (y su correspondiente diagrama de flujo) que pida al 
-usuario un número y le diga si es positivo, negativo o cero. 
-3) Crear un Algoritmo que lea tres números distintos y nos diga cuál de ellos es el mayor (recuerda usar la estructura condicional Si y los operadores lógicos). 
+1.  Diseñar un algoritmo que pida por teclado tres números; si el primero es negativo, debe imprimir el producto de los tres y si no lo es, imprimirá la suma. 
+2. Crear un algoritmo (y su correspondiente diagrama de flujo) que pida al usuario un número y le diga si es positivo, negativo o cero. 
+3. Crear un Algoritmo que lea tres números distintos y nos diga cuál de ellos es el mayor (recuerda usar la estructura condicional Si y los operadores lógicos). 
 4) Realizar un algoritmo que lea un número por teclado. En caso de que ese número sea 0 o menor que 0, se saldrá del programa imprimiendo antes un mensaje de error. Si es mayor que 0, se deberá calcular su cuadrado y la raíz cuadrada del mismo, visualizando el número que ha tecleado el usuario y su resultado (“Del número X, su potencia es X y su raíz X”). Para calcular la raíz cuadrada se puede usar la función interna RAIZ(X) o con una potencia de 0,5. 
 5) Una tienda ofrece un descuento del 15% sobre el total de la compra durante el mes de octubre. Dado un mes y un importe, calcular cuál es la cantidad que se debe cobrar al cliente. 
 6) Realizar un algoritmo (y su correspondiente diagrama de flujo) que dado un número entero, visualice en pantalla si es par o impar (para que un número sea par, se debe dividir por dos y su resto debe ser 0). 
