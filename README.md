@@ -17,11 +17,11 @@ de la siguiente forma (utilice una estructura de selección):
 7-8: Ha obtenido una calificación notable 
 4-6: Ha obtenido un aprobado 
 1-3: Ha desaprobado 
-Validar que la nota ingresada se encuentre entre 1 y 10. 
+Valida. que la nota ingresada se encuentre entre 1 y 10. 
 9) Crear un programa que pida un número al usuario un número de mes (por ejemplo, el 4) y escriba el nombre del mes correspondiente (por ejemplo, "abril"). Validar que el mes se encuentre entre 1 y 12. 
 
-ESTRUCTURAS DE CONTROL 
-10) Desarrollar un programa que permita 
+### ESTRUCTURAS DE CONTROL 
+10. Desarrollar un programa que permita 
 Elegir qué salida mostrar en pantalla de acuerdo a qué opción el usuario selecciona mediante un menú. Deberá desplegar el siguiente menú: 
 Menú de recomendaciones 
 1. Literatura 
@@ -86,4 +86,4 @@ calcular la suma de pares de números. Pedirá dos números al usuario y mostrar
 28) Preparar un programa que divida dos números que introduzca el usuario. Si el segundo número es cero, se le deberá avisar y volver a pedir tantas veces como sea necesario, hasta que introduzca un número distinto de cero, momento en que se calculará y mostrará el resultado de la división. 
 29) Leer tres números que denoten una fecha (día, mes, año). Comprobar que es una fecha válida. Si no es válida escribir un mensaje de error. Si es válida escribir la fecha cambiando el número del mes por su nombre. Ej. si se introduce 1 2 2006, se deberá imprimir “1 de febrero de 2006”. El año debe ser mayor que 0. Utilice la estructura “Según”. Nota: en PSeInt, si queremos escribir sin que haya saltos de línea, al final de la operación escribir escribimos sin saltar. 
 30) Calcular las calificaciones de un grupo de alumnos. La nota final de cada alumno se calcula según el siguiente criterio: la parte práctica vale el 10%; la parte de problemas vale el 50% y la parte teórica el 40%. El algoritmo leerá el nombre del alumno, las tres notas, escribirá el resultado y volverá a pedir los datos del siguiente alumno hasta que el nombre sea una cadena vacía. Las notas deben estar entre 0 y 10, si no lo están, no imprimir 
-Técnicas de Programación 
+
