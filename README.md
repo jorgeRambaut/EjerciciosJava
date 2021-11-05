@@ -1,8 +1,8 @@
 # EjerciciosJava
 Ejercicios Varios Tecnicas de Programacion
 ## Diferentes ejercicos resueltos del Curso Tenicas de Programacion
-###Técnicas de Programación
-EJERCITACION INTEGRADORA ESTRUCTURAS DE CONTROL 
+### Técnicas de Programación
+> EJERCITACION INTEGRADORA ESTRUCTURAS DE CONTROL 
 Estructuras de tipo condicional y de selección 
 1.  Diseñar un algoritmo que pida por teclado tres números; si el primero es negativo, debe imprimir el producto de los tres y si no lo es, imprimirá la suma. 
 2. Crear un algoritmo (y su correspondiente diagrama de flujo) que pida al usuario un número y le diga si es positivo, negativo o cero. 
