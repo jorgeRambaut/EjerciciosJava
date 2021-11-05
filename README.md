@@ -24,11 +24,11 @@ Valida. que la nota ingresada se encuentre entre 1 y 10.
 10. Desarrollar un programa que permita 
 Elegir qué salida mostrar en pantalla de acuerdo a qué opción el usuario selecciona mediante un menú. Deberá desplegar el siguiente menú: 
 Menú de recomendaciones 
-1. Literatura 
-2. Cine 
-3. Música 
-4. Videojuegos 
-5. Salir 
+1 Literatura 
+2 Cine 
+3 Música 
+4 Videojuegos 
+5 Salir 
 Dependiendo de la opción seleccionada deberá mostrar lo siguiente: 
 Lecturas recomendables: 
 + Esperándolo a Tito y otros cuentos de fútbol (Eduardo Sacheri) 
